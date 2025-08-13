@@ -16,5 +16,8 @@ public class ApiRestFulWebSpringBootApplication {
 	//API
 	//http://localhost:8080/api/fornecedores
 	//http://localhost:8080/api/fornecedores/8
+	
+	//SWAGGER-UI
+	//http://localhost:8080/swagger-ui/index.html#/
 
 }

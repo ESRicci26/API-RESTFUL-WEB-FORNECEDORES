@@ -1,8 +1,9 @@
-E:\WorkSpaceSTS\BibliaJFA-SpringBoot\src\main\java\com\javaricci\BibliaJFA\Controller\BibliaController.java
-E:\WorkSpaceSTS\BibliaJFA-SpringBoot\src\main\java\com\javaricci\BibliaJFA\Entity\Biblia.java
-E:\WorkSpaceSTS\BibliaJFA-SpringBoot\src\main\java\com\javaricci\BibliaJFA\Config\SQLiteDialect.java
-E:\WorkSpaceSTS\BibliaJFA-SpringBoot\src\main\java\com\javaricci\BibliaJFA\Entity\Hino.java
-E:\WorkSpaceSTS\BibliaJFA-SpringBoot\src\main\java\com\javaricci\BibliaJFA\Repository\HinariosRepository.java
-E:\WorkSpaceSTS\BibliaJFA-SpringBoot\src\main\java\com\javaricci\BibliaJFA\BibliaJFASpringBootApplication.java
-E:\WorkSpaceSTS\BibliaJFA-SpringBoot\src\main\java\com\javaricci\BibliaJFA\Repository\BibliaRepository.java
-E:\WorkSpaceSTS\BibliaJFA-SpringBoot\src\main\java\com\javaricci\BibliaJFA\Controller\HinariosController.java
+E:\WorkSpaceSTS-SpringToolsSuite\API-RESTFUL-WEB-FORNECEDORES\src\main\java\com\javaricci\ApiRestFulWeb\Repository\FornecedorRepository.java
+E:\WorkSpaceSTS-SpringToolsSuite\API-RESTFUL-WEB-FORNECEDORES\src\main\java\com\javaricci\ApiRestFulWeb\Service\FornecedorService.java
+E:\WorkSpaceSTS-SpringToolsSuite\API-RESTFUL-WEB-FORNECEDORES\src\main\java\com\javaricci\ApiRestFulWeb\Entity\Fornecedor.java
+E:\WorkSpaceSTS-SpringToolsSuite\API-RESTFUL-WEB-FORNECEDORES\src\main\java\com\javaricci\ApiRestFulWeb\Controller\ApiFornecedorController.java
+E:\WorkSpaceSTS-SpringToolsSuite\API-RESTFUL-WEB-FORNECEDORES\src\main\java\com\javaricci\ApiRestFulWeb\Config\WebConfig.java
+E:\WorkSpaceSTS-SpringToolsSuite\API-RESTFUL-WEB-FORNECEDORES\src\main\java\com\javaricci\ApiRestFulWeb\ApiRestFulWebSpringBootApplication.java
+E:\WorkSpaceSTS-SpringToolsSuite\API-RESTFUL-WEB-FORNECEDORES\src\main\java\com\javaricci\ApiRestFulWeb\Controller\WebFornecedorController.java
+E:\WorkSpaceSTS-SpringToolsSuite\API-RESTFUL-WEB-FORNECEDORES\src\main\java\com\javaricci\ApiRestFulWeb\Config\OpenAPIConfig.java
+E:\WorkSpaceSTS-SpringToolsSuite\API-RESTFUL-WEB-FORNECEDORES\src\main\java\com\javaricci\ApiRestFulWeb\Config\SQLiteDialect.java
